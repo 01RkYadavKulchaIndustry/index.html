@@ -53,7 +53,7 @@ form input.RITIK{
     color: #18add6;
 }
 .marquee{
-    background-color: red;
+    background-image: linear-gradient(to right,yellow,pink,black);
 }
 form input.yadav{
     background: white;
